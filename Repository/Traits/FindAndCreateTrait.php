@@ -1,5 +1,5 @@
 <?php
-namespace njr03304\DoctrineExtensionsBundle\Repository\Traits;
+namespace njr03304\DoctrineRepositoryBundle\Repository\Traits;
 
 use Doctrine\Common\Util\Inflector;
 
