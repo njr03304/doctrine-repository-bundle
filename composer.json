@@ -1,7 +1,7 @@
 {
     "name": "njr03304/doctrine-repository-bundle",
     "type": "symfony-bundle",
-    "description": "Symfony njr03304 DoctrineReporitoryBundle",
+    "description": "Symfony njr03304 DoctrineRepositoryBundle",
     "keywords": ["Doctrine Repository Trait"],
     "license": "MIT",
     "authors": [
@@ -15,7 +15,7 @@
         "doctrine/doctrine-bundle": "~1.3"
     },
     "autoload": {
-        "psr-4": { "njr03304\\DoctrineReporitoryBundle\\": "" }
+        "psr-4": { "njr03304\\DoctrineRepositoryBundle\\": "" }
     },
     "extra": {
         "branch-alias": {
